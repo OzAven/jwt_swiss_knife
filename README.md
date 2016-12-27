@@ -1,4 +1,4 @@
-# jwt_swiss_knife
+# JWT Swiss Knife
 A tool for conducting different types of attacks against JWT
 Credit to Tim Mclean for the great blogpost about JWT vulnerabilities: https://auth0.com/blog/critical-vulnerabilities-in-json-web-token-libraries/ 
 
