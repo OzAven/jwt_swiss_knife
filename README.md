@@ -8,7 +8,7 @@ pip install -r requirements.txt
 # Sample Usage
 Method 1:
 
-./jwt_sk.py -method 1 -body '{"userEmail":"alexp@cyberint.com", "rememberMe":false, "exp":1473240911, "timestamp":"06-Sep-2016 05:35:11:774"}'
+./jwt_sk.py -method 1 -body '{"userEmail":"oz@cyberint.com", "rememberMe":false, "exp":1473240911, "timestamp":"06-Sep-2016 05:35:11:774"}'
 
 Method 2:
 
